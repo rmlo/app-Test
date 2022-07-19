@@ -9,4 +9,4 @@ Este repositório foi organizado em branches para representar as implementaçõe
  
 2. Componentes, layouts e ui/ux em app nativo android
       
-      -[release/componentes-layouts-ui-ux-em-apps-android](https://github.com/rmlo/app-Test/tree/release/componentes-layouts-ui-ux-em-apps-android)
+           -[release/componentes-layouts-ui-ux-em-apps-android](https://github.com/rmlo/app-Test/tree/release/componentes-layouts-ui-ux-em-apps-android)
