@@ -101,12 +101,10 @@ public class MainActivity extends AppCompatActivity {
                              match.getHomeTeam().setScore(random.nextInt(match.getHomeTeam().getStars() + 1));
                              match.getAwayTeam().setScore(random.nextInt(match.getAwayTeam().getStars() + 1));
                              matchesAdapter.notifyItemChanged(i);
-
                          }
                 }
             });
         });
-
     }
 
     private void showErrorMessage() {
