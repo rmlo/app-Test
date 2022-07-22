@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "579228196910",
+    "project_id": "simulador-de-partida",
+    "storage_bucket": "simulador-de-partida.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579228196910:android:d7563bfa22bbdd6b90ffbf",
+        "android_client_info": {
+          "package_name": "br.com.rmlo.apptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579228196910-5s78f3pnrv56mdockii3d1345m0cdp4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWni4MW2wr8-9y9KXfLc-WFFiXyb05mn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579228196910-5s78f3pnrv56mdockii3d1345m0cdp4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
